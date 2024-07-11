@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace NetKubernetes.Models {
-    public class Inmueble {
+    public class Property {
       [Key]
       [Required]
       public int Id { get; set; }
